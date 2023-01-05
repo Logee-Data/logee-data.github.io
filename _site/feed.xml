@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-05T17:19:57+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Logee Data Team</title><subtitle>You can find updates from Logee Data Team here.</subtitle><entry><title type="html">Data Team Update 2023 - Week 1</title><link href="http://localhost:4000/data/update/2023/01/05/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Data Team Update 2023 - Week 1" /><published>2023-01-05T16:47:06+07:00</published><updated>2023-01-05T16:47:06+07:00</updated><id>http://localhost:4000/data/update/2023/01/05/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/data/update/2023/01/05/welcome-to-jekyll.html"><![CDATA[<h3 id="billy-toshi"><u>Billy Toshi</u></h3>
+
+<p><strong>Hands-On</strong></p>
+
+<ul>
+  <li>Update 1</li>
+  <li>Update 2</li>
+  <li>Update 3</li>
+</ul>
+
+<p><strong>Meeting</strong></p>
+
+<ul>
+  <li>Meeting (<a href="https://link.disini">MoM</a>)</li>
+  <li>Meeting 2 (<a href="https://link.disini">MoM</a>)</li>
+  <li>Meeting 3 (<a href="https://link.disini">MoM</a>)</li>
+</ul>]]></content><author><name></name></author><category term="data" /><category term="update" /><summary type="html"><![CDATA[Billy Toshi]]></summary></entry></feed>
