@@ -9,15 +9,17 @@ categories: data update
 
 **Hands-On**
 
-- Update 1
-- Update 2
-- Update 3
+- Setup CI/CD for Logee Stream(LS) production
+- Deploy LS production
+- Setup LS production monitoring on Cloud Monitoring, PagerDuty, and Data Studio
+- Working on LS code cleaning and documentation 
 
 **Meeting**
 
-- Meeting ([MoM](https://link.disini))
-- Meeting 2 ([MoM](https://link.disini))
-- Meeting 3 ([MoM](https://link.disini))
+- Logee Stream Release Planning ([MoM](https://link.disini))
+- DE Interview ([MoM](https://link.disini))
+- Weekly Data Enkripsi dan Update Satu Data Tribe ([MoM](https://link.disini))
+- Skyflow Demo ([MoM](https://link.disini))
 
 ### <u>Fikri Haykal</u>
 
