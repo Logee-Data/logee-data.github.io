@@ -36,3 +36,20 @@ categories: data update
 - Data Discussion Logee Core ([MoM](https://tobe.announce))
 - Google Analytics Discussion (LGT) ([MoM](https://tobe.announce))
 - Grooming Sprint Logee Core #12 ([MoM](https://tobe.announce))
+
+### <u>Amelia Kurnia Salwa</u>
+
+**Hands-On**
+
+- Investigated the difference in the transaction widget value on Google Data Studio and Web Port.
+- Exploration of driver and truck data to determine driver occupancy.
+- Assist in compiling Logee Truck metric evaluation document.
+- Investigated transaction data on Logee Truck.
+
+**Meeting**
+
+- Weekly Meeting Logee Transportation W1 2023 ([MoM](https://next.items))
+- Discuss Logee Truck metric evaluation ([MoM](https://next.items))
+- Workshop Q1 2023 Logee Trans ([MoM](https://next.items))
+- Update information to PM Logee truck on the findings of exploration data for drivers and trucks ([MoM](https://next.items))
+- Google Analytics Discussion for LGT ([MoM](https://next.items))
