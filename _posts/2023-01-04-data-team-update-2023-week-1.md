@@ -53,3 +53,20 @@ categories: data update
 - Workshop Q1 2023 Logee Trans ([MoM](https://next.items))
 - Update information to PM Logee truck on the findings of exploration data for drivers and trucks ([MoM](https://next.items))
 - Google Analytics Discussion for LGT ([MoM](https://next.items))
+
+
+### <u>Ahmad Habibulloh</u>
+
+**Hands-On**
+
+- Target sales growth adjustment for 2023
+- Validate Inpoin Total Coin for Customers in December
+- Summarize Inpoin findings for further evaluation
+
+
+**Meeting**
+
+- Weekly Meeting Logee Distri W1 2023 ([MoM](https://next.items))
+- Inpoin discussion and next workaround planning with Marketing ([MoM](https://next.items))
+- Product recommendation supplementary requirements discussion ([MoM](https://next.items))
+- Target sales breakdown to area operations manager ([MoM](https://next.items))
