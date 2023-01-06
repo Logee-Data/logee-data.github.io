@@ -18,3 +18,19 @@ categories: data update
 - Meeting ([MoM](https://link.disini))
 - Meeting 2 ([MoM](https://link.disini))
 - Meeting 3 ([MoM](https://link.disini))
+
+### <u>Fikri Haykal</u>
+
+**Hands-On**
+
+- (LDSD-20) Truck and Vehicle Count by Province
+- Change the way to get fulfillmentVehicleId data for lgt_income_theme table
+- Apply masking to phoneNumber data in lgd_store
+- Grant access to read sensitive data to mas Ahmad
+
+**Meeting**
+
+- Logee Stream Release Planning ([MoM](https://tobe.announce))
+- Data Discussion Logee Core ([MoM](https://tobe.announce))
+- Google Analytics Discussion (LGT) ([MoM](https://tobe.announce))
+- Grooming Sprint Logee Core #12 ([MoM](https://tobe.announce))
