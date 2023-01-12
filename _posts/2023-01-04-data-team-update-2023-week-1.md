@@ -70,3 +70,15 @@ categories: data update
 - Inpoin discussion and next workaround planning with Marketing ([MoM](https://next.items))
 - Product recommendation supplementary requirements discussion ([MoM](https://next.items))
 - Target sales breakdown to area operations manager ([MoM](https://next.items))
+
+### <u>Alia Ismayanti</u>
+
+**Hands-On**
+
+- PTPN VIII - Revamp Widget Query
+- Integrate New LGT Data Sourcing to Visibility Dashboard for LGT 
+
+**Meeting**
+
+- Data Discussion Logee Core ([MoM](https://tobe.announce))
+- Grooming Sprint Logee Core #12 ([MoM](https://tobe.announce))
