@@ -35,8 +35,16 @@ categories: data update
 
 **Hands-On**
 
+- Create semantic GA4 LGT based on the default event name
+- Collaborate with the LGT colleagues to collect driver license information based on vehicle type
+- Exploration of registered driver and truck data based on truck companies
+- Create a Logee PRM dashboard on google data studio
+
 **Meeting**
 
+- Weekly Meeting Logee Transportation W2 2023 ([MoM](https://next.items))
+- PRM All Report Integration ([MoM](https://next.items))
+- Discussion of merging OKR metric data for LGD and LGT in one dataset ([MoM](https://next.items))
 
 ### <u>Ahmad Habibulloh</u>
 
