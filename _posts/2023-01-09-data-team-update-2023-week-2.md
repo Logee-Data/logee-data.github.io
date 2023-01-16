@@ -23,7 +23,18 @@ categories: data update
 
 **Hands-On**
 
+- Implement custom function feature in Logee Stream (LS)
+- Re-implement Datadog integration in LS
+- Deploy LS x Datadog in staging environment
+- Exploring Cloud KMS and Python Tink library for data encryption
+
 **Meeting**
+
+- LS Technical Discussion
+- Update Satu Data Digital
+- DE Interview
+- Dataflow Google Support
+- LS-Datadog Integration Debugging
 
 ### <u>Fikri Haykal</u>
 
